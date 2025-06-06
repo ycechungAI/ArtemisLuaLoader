@@ -1,5 +1,9 @@
 # ArtemisLuaLoader
 
+This repo is currently not maintained.
+All commits should be done at
+https://github.com/shahrilnet/remote_lua_loader
+
 
 https://github.com/user-attachments/assets/9170c696-7629-4c26-b8e5-d735e084fc01
 
